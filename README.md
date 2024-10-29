@@ -1,4 +1,4 @@
-# PLEASE MAKE A FORK/[DOWNLOAD THIS REPO RN](https://codeload.github.com/player-k12/player-k12.github.io/zip/refs/heads/main), THIS REPO WILL BE DMCA'D
+# cant wait to be dmca'ed 
 ## Host the website
 
 You can host this website on a cloud hosting solution like Replit or Render here.
